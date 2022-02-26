@@ -1,6 +1,9 @@
 # avcleaner
 C/C++ source obfuscator for antivirus bypass
 
+Crpr modifed:
+- Dockerfile updated to use Debian due to archlinux no longer having libstdc++5  available
+
 ![usage example](https://blog.scrt.ch/wp-content/uploads/2020/06/Screenshot-2020-06-18-at-17.50.54-1.png)
 
 # Blog posts
